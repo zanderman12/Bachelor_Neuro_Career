@@ -1,0 +1,2 @@
+# Non-Profit Manager
+There are large non-profit organizations that are vital to the research process. Organizations like the Society for Neuroscience or the National Science Foundation provide opportunities to share scientific work, organize conferences, and provide funding for research to take place. All of that requires people to organize and lead, creating a wide range of career opportunities for those wishing to stay involved in science even if they are not doing research.

@@ -1,0 +1,2 @@
+# Recommendation letters
+Recommendation letters are an important part of applications. Most graduate programs will ask for 2-3 letters. You should plan with your letter writers well in advance of any deadlines and try to make the process as easy as possible for them. Check out the [recommendation letters](../general_tips/rec_letters.md) section for tips on how to maximize yours.

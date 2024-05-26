@@ -1,0 +1,4 @@
+# Technical Writing
+Ever wonder who creates those drug brochures you get at doctor’s offices? What about the sales pamphlets? Or the instructions for that knee brace you just bought? There is a massive industry around writing technical documents. These require the writer to have an understanding of the material, even if they did not do the research. This can take the form of an editor at a scientific journal or for a textbook company as well. Really if you think about all the scientific writing that exists in the world, someone had to write it, and often, it is not the person who did the research.
+
+If this sounds like it would be interesting to you, look for jobs titled “technical writer” or “technical editor”. If you are looking for companies, look at the big pharmaceuticals. Abbvie and Pfizer are always looking for more technical writers.

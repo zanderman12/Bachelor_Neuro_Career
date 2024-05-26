@@ -1,0 +1,3 @@
+# Science Adjacent Careers:
+
+Most students end up doing something besides research or medical school and so most will be captured by this miscellaneous bucket. What that is will depend on you. I know of neuroscience majors that are now in sales (see [technical sales](../sci_adj/tech_sales.md) for information about how to use your degree in a sales role), marketing (again can still lean on your neuroscience knowledge), [technical writing/editing](../sci_adj/tech_writing.md), grant work, consulting, teaching (non-college level) and everything else. If you are graduating, don’t want to end up a doctor or doing research but still love science, check out the [Science Adjacent Careers](../sci_adj/everything_else.md) page. Note: I also touch upon non-science careers here.
