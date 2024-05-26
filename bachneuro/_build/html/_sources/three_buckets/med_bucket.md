@@ -1,0 +1,4 @@
+# Medical Careers:
+Many undergraduates complete the neuroscience degree as part of a premed path. I will be honest and admit that I do not have much to say about this path and encourage you to speak to your premed advisor about any questions. The only point I will make here is that there are lots of paths to getting into med school and most of them do not involve you going straight from undergraduate to medical school. Many students take a gap year or years doing all kinds of different things. Many students also do not end up in the school of their choice and end up with very successful careers. As the old joke goes: What do you call the person who finished last in their med school class? Doctor.
+
+The [medical careers](medical_careers.md) page contains a list of resources I am told are helpful.

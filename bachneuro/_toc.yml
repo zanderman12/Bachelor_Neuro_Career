@@ -1,0 +1,37 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: three_buckets/three_buckets
+- file: research_careers/research_careers
+  sections:
+      - file: research_careers/academic_lab
+      - file: research_careers/industry
+      - file: research_careers/postbacc
+      - file: research_careers/masters
+      - file: research_careers/phd
+- file: sci_adj/everything_else
+  sections:
+    - file: sci_adj/tech_writing
+    - file: sci_adj/tech_sales
+    - file: sci_adj/sci_journalism
+    - file: sci_adj/med_device_support
+    - file: sci_adj/non_profit
+    - file: sci_adj/broader_options
+- file: phd/applying_phd
+  sections:
+    - file: phd/what is a phd
+    - file: phd/application_process
+    - file: phd/phd_cost
+    - file: phd/preparing
+    - file: phd/finding_a_phd
+    - file: phd/rec_letters
+- file: general_tips/general_tips
+  sections:
+      - file: general_tips/informational_interview
+      - file: general_tips/passive_search
+      - file: general_tips/listservs
+      - file: general_tips/rec_letters
+      - file: general_tips/blog
