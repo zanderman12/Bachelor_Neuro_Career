@@ -1,0 +1,3 @@
+# Who am I?
+
+Hi there, My Name is Alex Cates, I have a PhD in Neuroscience and have bounced around jobs in both industry and academia.  I decided to create this guide to help me remember all of the advice and information I have collected over the years along with helping some students along the way. Hopefully you find this useful and if you want to learn more about me. Check out my website: [alexcates.com](https://www.alexcates.com/)
