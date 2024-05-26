@@ -35,4 +35,4 @@ chapters:
       - file: general_tips/listservs
       - file: general_tips/rec_letters
       - file: general_tips/blog
--file: aboutme
+- file: aboutme
